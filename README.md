@@ -24,7 +24,7 @@ This is a web-based application that allows users to sign up, log in, request ac
 1. Import the project in Eclipse (Dynamic Web Project)
 2. Add PostgreSQL JDBC JAR to build path and WEB-INF/lib
 3. Run Apache Tomcat server
-4. Visit: http://localhost:8080/UserAccessManagement/signup.jsp
+4. Visit: http://localhost:8080/UserAccesManagement/signup.jsp
 5. Use `schema.sql` to create required tables in PostgreSQL before testing
 
 🧪 Sample Users (Optional):
